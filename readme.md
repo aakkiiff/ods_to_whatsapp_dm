@@ -1,4 +1,5 @@
 # ods_to_whatsapp_dm
+*send whatsapp message to the numbers listed on a ods file*
 **how to use it?**
 
  1. save the google sheet file as ods file
